@@ -2,8 +2,7 @@
 # Tenisson's Portifolio
 
   - Testes avançados de GIT
-  - Drag and drop images (requires your Dropbox account be linked)
-
+  - Estatégias de Flow
 
 ### Plugins
 
